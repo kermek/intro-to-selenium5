@@ -19,9 +19,5 @@ target/
 # TestNG
 test-output/
 
-# MIT Framework
-/src/main/resources/config.properties
-/src/main/resources/jdbc.properties
-
 test-output
 build
