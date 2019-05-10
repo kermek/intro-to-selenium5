@@ -1,0 +1,27 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+/bin/
+
+# TestNG
+test-output/
+
+# MIT Framework
+/src/main/resources/config.properties
+/src/main/resources/jdbc.properties
+
+test-output
+build
